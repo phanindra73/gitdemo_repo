@@ -1,1 +1,0 @@
-this is sample file to store in git environment"this file contains some information related to git"
